@@ -1,0 +1,2 @@
+Se han añadido las funciones de medida de la distribucion radial de densidad de masa, del momento de inercia, de la conservación del momento angular, de la conservación de la energia y del flujo medio de masa absorbido por el agujero negro.
+Quedan por determinar: la distribución de la excentricidad con el radio, el estudio de observables para estado estacionario, añadir distribuciones de la density wave theory y (si no es muy pesado) añadir materia oscura.
