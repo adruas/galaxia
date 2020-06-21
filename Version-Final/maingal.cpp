@@ -98,7 +98,7 @@ int main (void)
     //Por si me cansa la escritura en la consola:
     //Año galactico ~250My
     h=0.1;t_fin=6e5;
-    escribopos=(int) t_fin/(h*1e3); //Escribo 6000 veces las posiciones
+    escribopos=(int) t_fin/(h*1e3); //Escribo 1000 veces las posiciones
     escriboresto= (int) t_fin/(h*10); //Escribo 10 veces el resto de observables
 
     //Implementación del algoritmo a la función principal, INICIALIZACIÓN
