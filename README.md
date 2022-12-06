@@ -1,4 +1,5 @@
 # galaxia
-
-Este proyecto se centra en la simulación de una galaxia usando C++.
-Para ello se usa el algoritmo de velocidad de Verlet.
+N-body simulation of solar systems interacting gravitationally in a galaxy without dark matter using Velocity Verlet (VV) algorithm in C++.
+<p align="center">
+<img src="https://github.com/adruas/galaxia/blob/master/Version-Final/trayectorias.gif" width="300">
+</p>
